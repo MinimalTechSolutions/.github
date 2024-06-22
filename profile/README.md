@@ -27,7 +27,7 @@ Front-end Developer: ~Sr. K~
 
 ## 📖 Table of Contents
 Minimal Byte - Saas
-Minimal Infra - Infrastructure as a Service (IaaS)
+Minimal Infra - IaaS
 Minimal Sec - Cybersecurity Consulting
 Minimal Game - Game Development
 Minimal Chain - Decentralized Autonomous Organizations (DAOs)
@@ -35,7 +35,7 @@ Minimal Chain - Decentralized Autonomous Organizations (DAOs)
 ### 🚀 Minimal Byte
 Saas is our current flagship type of product, we offer better content for your contentment with technology, whether be in a web application, Mobile, an IoT solution or even your indepent game idea, our team of software developers has under-goed into a truly selective process.
 
-### 🏢 Infrastructure as a Service (IaaS)
+### 🏢 Minimal Infra - IaaS
 As we expand our offerings, we aim to provide comprehensive IaaS solutions tailored to your specific needs. Our infrastructure services will include computing resources, storage, networking capabilities, hardware solution for robotics projects, and much more.
 
 #### Benefits
@@ -52,7 +52,7 @@ Penetration testing
 Incident response planning and execution
 Web3 security solutions
 
-### 🎮 Game Development
+### 🎮 Minimal Games - Game development
 Leveraging our expertise in software development, we plan to create engaging and immersive gaming experiences across various platforms. Our portfolio will include games for mobile devices, consoles, and emerging technologies like virtual and argumented reality.
 
 #### Upcoming Titles:
@@ -65,8 +65,8 @@ As pioneers in the decentralized space, we aim to create and support DAOs that f
 
 #### Key Features:
 Token-based governance
-Smart contract integration
-Open-source development
+Smart contract full integration
+Intuition Driven and open source Development
 
 ## 🤝 Partnerships
 We believe in the power of collaboration and are always looking for new partners to join us on our journey. If you're interested in working together, please reach out to [minimalsolucoestecnologicas@gmail.com]
